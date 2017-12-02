@@ -1,7 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to My Blog
 
-Assalamualaikum
+Assalamualaikum Warahmatullahi Wabarokatuh
 
+### Coba
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
